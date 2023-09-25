@@ -1,0 +1,16 @@
+
+FTP account: E20005
+
+Total simulation cycle (cycle): 1458
+Simulation score (score): 72
+
+--- RTL category---
+HDL simulator :                    ncverilog
+RTL filename :                     SME.v
+
+--- Pre-layout gate-level ---
+gate-levelfilename:                
+gate-level sdf filename:           
+
+-----(annotation)--------------------------------------------------------
+ (optional, write down anything that you want grader know)
